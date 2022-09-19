@@ -1,10 +1,7 @@
 import pandas as pd
-import matplotlib.pyplot as plt
-import plotly.express as px
+from matplotlib import pyplot as plt
 import seaborn as sns
 import numpy as np
-import requests 
-from PIL import Image
 import streamlit as st
 from streamlit_lottie import st_lottie
 import warnings
